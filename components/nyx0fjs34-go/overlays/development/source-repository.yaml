@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: nyx0fjs34-go-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/nyx0fjs34-go
